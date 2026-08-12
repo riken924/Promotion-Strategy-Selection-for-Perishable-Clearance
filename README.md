@@ -18,7 +18,7 @@ The code identifies the Threshold-based Promotion Policy (TPP) under demand unce
   * `Figure_4_Strategy_Performance_under_Varying_Bundle_Pricing_Factors_(α).ipynb` : Analyses bundle pricing factor boundaries.
   * `Figure_5_Strategy_Performance_under_Varying_Inventory_Levels_(Q).ipynb` : Evaluates capacity stress-tests (Newsvendor logic).
   * `Figure_6_Strategy_Performance_under_Varying_Perishability_Levels.ipynb` : Evaluates performance across physical decay rates.
-    * `Figure_6.1_Conceptual_mechanism_of_Threshold_Compression_under_Demand_Uncertainty.ipynb` : Visualises the Stochastic Threshold Compression Effect.
+    * `Figure_6.1_Conceptual_Illustration_of_Stochastic_Threshold_Drift.ipynb` : Visualises the Stochastic Threshold Compression Effect.
   * `Figure_7_Strategy_Performance_under_Stochastic_Demand.ipynb` : Evaluates the impact of consumer behavioural demand expansion and numerically validates the psychological threshold.
   * `Table3_to_Table5.ipynb` : Contains scripts generating the numerical sensitivity grids.
 * `figures/` : Contains the output visualisation plots used in the dissertation.
