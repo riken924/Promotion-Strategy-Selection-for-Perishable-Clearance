@@ -20,7 +20,7 @@ The code identifies the Threshold-based Promotion Policy (TPP) under demand unce
   * `Figure_6_Strategy_Performance_under_Varying_Perishability_Levels.ipynb` : Evaluates performance across physical decay rates.
     * `Figure_6.1_Conceptual_Illustration_of_Stochastic_Threshold_Drift.ipynb` : Visualises the Stochastic Threshold Compression Effect.
   * `Figure_7_Strategy_Performance_under_Stochastic_Demand.ipynb` : Evaluates the impact of consumer behavioural demand expansion and numerically validates the psychological threshold.
-  * `Table3_to_Table5.ipynb` : Contains scripts generating the numerical sensitivity grids.
+  * `Table3_and_Table4.ipynb` : Contains scripts generating the numerical sensitivity grids.
 * `figures/` : Contains the output visualisation plots used in the dissertation.
 * `requirements.txt` : Lists all necessary Python dependencies.
 
